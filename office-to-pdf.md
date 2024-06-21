@@ -1,4 +1,4 @@
-下面的PowerShell脚本可以调用Office 365的相关功能，将Office文件批量转换为PDF文件。
+下面的PowerShell脚本可以调用Office 365的相关功能，将Office文件批量转换为PDF文件。仅在Office 365桌面版起作用。
 
 ````
 # 加载Windows.Forms和Drawing程序集
