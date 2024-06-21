@@ -2,8 +2,6 @@
 
 请务必**在目标文件夹**打开PowerShell。
 
----
-
 ````
 # 加载Windows.Forms程序集
 Add-Type -AssemblyName System.Windows.Forms
