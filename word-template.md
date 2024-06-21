@@ -1,4 +1,8 @@
-这个PowerShell脚本可以令您基于选定的既有dotx模板，来新建一个Word文档。请务必**在目标文件夹**打开PowerShell。
+这个PowerShell脚本可以令您基于选定的既有dotx模板，来新建一个Word文档。
+
+请务必**在目标文件夹**打开PowerShell。
+
+---
 
 ````
 # 加载Windows.Forms程序集
